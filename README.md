@@ -7,9 +7,9 @@
 
 <br/>
 
-<a href="https://n4z0k.github.io/"><img src="https://img.shields.io/badge/Vault-n4z0k.github.io-000000?style=flat-square&logo=obsidian&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/N4z0k"><img src="https://img.shields.io/badge/TryHackMe-N4z0k-000000?style=flat-square&logo=tryhackme&logoColor=white" /></a>
-<a href="https://www.credly.com/users/alfeze-ali/badges"><img src="https://img.shields.io/badge/Credly-Badges-000000?style=flat-square&logo=credly&logoColor=white" /></a>
+<a href="https://n4z0k.github.io/"><img src="https://img.shields.io/badge/Vault-n4z0k.github.io-7C3AED?style=flat-square&logo=obsidian&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/N4z0k"><img src="https://img.shields.io/badge/TryHackMe-N4z0k-C11111?style=flat-square&logo=tryhackme&logoColor=white" /></a>
+<a href="https://www.credly.com/users/alfeze-ali/badges"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=flat-square&logo=credly&logoColor=white" /></a>
 
 </div>
 
@@ -38,36 +38,36 @@ It's my second brain, and a way to share what I'm passionate about — structure
 
 `Networking` · `Linux` · `Windows` · `Security` · `Pentesting` · `Tools` · `Hands-on` · `Development`
 
-<a href="https://n4z0k.github.io/"><img src="https://img.shields.io/badge/Explore%20the%20vault-%E2%86%92-000000?style=for-the-badge" /></a>
+<a href="https://n4z0k.github.io/"><img src="https://img.shields.io/badge/Explore%20the%20vault-%E2%86%92-7C3AED?style=for-the-badge" /></a>
 
 ---
 
 ### `~/arsenal`
 
 **Offensive security**<br/>
-<img src="https://img.shields.io/badge/Kali%20Linux-000000?style=flat-square&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Burp%20Suite-000000?style=flat-square&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 
 **Networking**<br/>
-<img src="https://img.shields.io/badge/Cisco%20IOS-000000?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Packet%20Tracer-000000?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/GNS3-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/pfSense-000000?style=flat-square&logo=pfsense&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/GNS3-2E7D32?style=flat-square" />
+<img src="https://img.shields.io/badge/pfSense-1565C0?style=flat-square&logo=pfsense&logoColor=white" />
 
 **Systems**<br/>
-<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows%20Server-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Active%20Directory-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square" />
+<img src="https://img.shields.io/badge/Active%20Directory-0078D6?style=flat-square" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
 **Scripting & docs**<br/>
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Obsidian-000000?style=flat-square&logo=obsidian&logoColor=white" />
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
+<img src="https://img.shields.io/badge/Markdown-4B5563?style=flat-square&logo=markdown&logoColor=white" />
 
 ---
 
@@ -115,9 +115,9 @@ It's my second brain, and a way to share what I'm passionate about — structure
 
 <div align="center">
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://n4z0k.github.io/"><img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=obsidian&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/N4z0k"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://n4z0k.github.io/"><img src="https://img.shields.io/badge/Vault-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/N4z0k"><img src="https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 
 <br/><br/>
 
