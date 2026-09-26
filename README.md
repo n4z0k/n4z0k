@@ -18,7 +18,9 @@
 ```yaml
 handle    : N4z0k
 role      : Networking & Cybersecurity student
-school    : BUT Networks & Telecommunications — Cybersecurity track (year 2)
+degree    : Bachelor of Technology in Networks & Telecommunications
+school    : IUT — French public university
+major     : Cybersecurity — 2nd year of 3
 focus     : Offensive security · Pentesting · Network engineering
 studying  : Cisco CCNA
 next      : eJPT (eLearnSecurity Junior Penetration Tester)
@@ -68,17 +70,6 @@ It's my second brain, and a way to share what I'm passionate about — structure
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-4B5563?style=flat-square&logo=markdown&logoColor=white" />
-
----
-
-### `~/roadmap`
-
-```diff
-+ BUT Networks & Telecommunications — Cybersecurity track   [in progress · year 2]
-+ Cisco CCNA                                                [studying]
-! eJPT — Junior Penetration Tester                          [planned this year]
-# OSCP                                                      [someday]
-```
 
 ---
 
