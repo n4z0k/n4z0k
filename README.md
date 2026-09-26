@@ -115,7 +115,7 @@ It's my second brain, and a way to share what I'm passionate about — structure
 
 <div align="center">
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:alfeze.ali.pro@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://n4z0k.github.io/"><img src="https://img.shields.io/badge/Vault-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" /></a>
 <a href="https://tryhackme.com/p/N4z0k"><img src="https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 
