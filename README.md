@@ -86,9 +86,13 @@ It's my second brain, and a way to share what I'm passionate about — structure
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/N4z0k">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/N4z0k.png" alt="TryHackMe badge" />
-</a>
+Hands-on practice on **TryHackMe** — rooms, labs and CTF challenges, with writeups published in my vault.
+
+<br/>
+
+<a href="https://tryhackme.com/p/N4z0k"><img src="https://img.shields.io/badge/TryHackMe-N4z0k-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+<a href="https://n4z0k.github.io/08_hands-on/moc_hands-on"><img src="https://img.shields.io/badge/Writeups-Hands--on-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" /></a>
+<a href="https://www.credly.com/users/alfeze-ali/badges"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
 
 </div>
 
@@ -98,10 +102,6 @@ It's my second brain, and a way to share what I'm passionate about — structure
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=n4z0k&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff">
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=n4z0k&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&title_color=1f2328&text_color=57606a&icon_color=1f2328">
-</picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=n4z0k&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D">
   <img height="160" alt="GitHub streak" src="https://streak-stats.demolab.com?user=n4z0k&hide_border=true&background=FFFFFF&ring=1F2328&fire=1F2328&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1F2328&sideLabels=57606A&dates=8B949E&stroke=D0D7DE">
