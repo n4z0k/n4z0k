@@ -82,7 +82,7 @@ Hands-on practice on **TryHackMe** — rooms, labs and CTF challenges, with writ
 <br/>
 
 <a href="https://tryhackme.com/p/N4z0k"><img src="https://img.shields.io/badge/TryHackMe-N4z0k-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-<a href="https://n4z0k.github.io/08_hands-on/moc_hands-on"><img src="https://img.shields.io/badge/Writeups-Hands--on-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" /></a>
+<a href="https://n4z0k.github.io/08-hands-on/moc_hands-on"><img src="https://img.shields.io/badge/Writeups-Hands--on-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" /></a>
 <a href="https://www.credly.com/users/alfeze-ali/badges"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
 
 </div>
